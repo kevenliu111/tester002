@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Config.php" server="144.202.115.122" local="131740556106665686" remote="131740594200000000" Dst="0" />
+<file name="Auth.php" server="144.202.115.122" local="131740556106395415" remote="131740594200000000" Dst="0" />
+<file name="Capabilities.php" server="144.202.115.122" local="131740556106505500" remote="131740594200000000" Dst="0" />
+<file name="QosLevel.php" server="144.202.115.122" local="131740556106946001" remote="131740594200000000" Dst="0" />
+<file name="StreamParser.php" server="144.202.115.122" local="131740556107056065" remote="131740594200000000" Dst="0" />
+<file name="PacketFactory.php" server="144.202.115.122" local="131740556106795733" remote="131740594200000000" Dst="0" />
+<file name="Topics.php" server="144.202.115.122" local="131740556107186076" remote="131740594200000000" Dst="0" />
+<file name="Auth.php" server="45.63.22.200//home/insphp/" local="131740556106395415" remote="131740871870000000" Dst="0" />
+<file name="Capabilities.php" server="45.63.22.200//home/insphp/" local="131740556106505500" remote="131740871880000000" Dst="0" />
+<file name="Config.php" server="45.63.22.200//home/insphp/" local="131740556106665686" remote="131740871890000000" Dst="0" />
+<file name="PacketFactory.php" server="45.63.22.200//home/insphp/" local="131740556106795733" remote="131740871910000000" Dst="0" />
+<file name="QosLevel.php" server="45.63.22.200//home/insphp/" local="131740556106946001" remote="131740871930000000" Dst="0" />
+<file name="StreamParser.php" server="45.63.22.200//home/insphp/" local="131740556107056065" remote="131740871940000000" Dst="0" />
+<file name="Topics.php" server="45.63.22.200//home/insphp/" local="131740556107186076" remote="131740871960000000" Dst="0" />
+</dwsync>

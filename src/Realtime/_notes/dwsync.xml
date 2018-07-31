@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandInterface.php" server="144.202.115.122" local="131740556102966588" remote="131740594200000000" Dst="0" />
+<file name="HandlerInterface.php" server="144.202.115.122" local="131740556103086760" remote="131740594200000000" Dst="0" />
+<file name="Message.php" server="144.202.115.122" local="131740556103206810" remote="131740594200000000" Dst="0" />
+<file name="Mqtt.php" server="144.202.115.122" local="131740556103332063" remote="131740594200000000" Dst="0" />
+<file name="ParserInterface.php" server="144.202.115.122" local="131740556103442307" remote="131740594200000000" Dst="0" />
+<file name="SubscriptionInterface.php" server="144.202.115.122" local="131740556103562421" remote="131740594200000000" Dst="0" />
+<file name="CommandInterface.php" server="45.63.22.200//home/insphp/" local="131740556102966588" remote="131740871580000000" Dst="0" />
+<file name="HandlerInterface.php" server="45.63.22.200//home/insphp/" local="131740556103086760" remote="131740871790000000" Dst="0" />
+<file name="Message.php" server="45.63.22.200//home/insphp/" local="131740556103206810" remote="131740871810000000" Dst="0" />
+<file name="Mqtt.php" server="45.63.22.200//home/insphp/" local="131740556103332063" remote="131740872020000000" Dst="0" />
+<file name="ParserInterface.php" server="45.63.22.200//home/insphp/" local="131740556103442307" remote="131740872180000000" Dst="0" />
+<file name="SubscriptionInterface.php" server="45.63.22.200//home/insphp/" local="131740556103562421" remote="131740872850000000" Dst="0" />
+</dwsync>
